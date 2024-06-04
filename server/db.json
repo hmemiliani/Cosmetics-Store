@@ -1,44 +1,100 @@
 {
   "products": [
     {
-      "name": "hola",
-      "description": "una descripcion",
-      "price": "1999",
-      "stock": "12",
-      "category": "hogar",
-      "id": "0380"
+      "id": "a9a6",
+      "name": "Serum Rejuvenecedor Vitalux",
+      "description": "Un serum potente que revitaliza la piel, reduciendo arrugas y líneas de expresión.",
+      "price": "45.99",
+      "stock": "50",
+      "category": "Cuidado Facial"
     },
     {
-      "name": "prosucto 1",
-      "description": "una descripcion",
-      "price": "1234",
-      "stock": "12",
-      "category": "hogar",
-      "id": "0a3b"
+      "id": "3a9f",
+      "name": "Mascarilla Capilar Hidratación Profunda",
+      "description": "Nutre intensamente el cabello seco y dañado, dejándolo suave y brillante.",
+      "price": "12.49",
+      "stock": "100",
+      "category": "Cuidado del Cabello"
     },
     {
-      "name": "123",
-      "description": "esta es una descripcion",
-      "price": "31231",
-      "stock": "123",
-      "category": "31231",
-      "id": "36d6"
+      "id": "8829",
+      "name": "Lápiz Labial Mate Duradero",
+      "description": "Colores vibrantes y duración de hasta 8 horas.",
+      "price": "9.99",
+      "stock": "80",
+      "category": "Maquillaje Labial"
     },
     {
-      "id": "43f0",
-      "name": "asd",
-      "description": "asd",
-      "price": "123",
-      "stock": "123",
-      "category": "algo"
+      "id": "969d",
+      "name": "Crema de Manos Reparadora",
+      "description": "Hidratación intensa para manos secas y agrietadas",
+      "price": "7.99",
+      "stock": "24",
+      "category": "Cuidado de Manos"
     },
     {
-      "id": "df1e",
-      "name": "Labial",
-      "description": "esta madre es para los labios",
-      "price": "20000",
-      "stock": "54",
-      "category": "makeup"
+      "id": "14c5",
+      "name": "Agua Micelar Limpiadora",
+      "description": "Limpia profundamente la piel, eliminando impurezas y maquillaje. ",
+      "price": "15.99",
+      "stock": "70",
+      "category": "Cuidado Facial"
+    },
+    {
+      "id": "293f",
+      "name": "Perfume Floral Primaveral \"Brisa de Jardín\"",
+      "description": "Fragancia fresca y floral ideal para el día a día.",
+      "price": "29.99",
+      "stock": "40",
+      "category": "Fragancias"
+    },
+    {
+      "id": "0c0e",
+      "name": "Exfoliante Corporal Revitalizante",
+      "description": "Elimina células muertas y deja la piel suave y renovada. ",
+      "price": "18.99",
+      "stock": "60",
+      "category": "Cuidado Corporal"
+    },
+    {
+      "id": "7664",
+      "name": "Delineador Líquido Precisión Total",
+      "description": "Define tus ojos con precisión y duración de 12 horas.",
+      "price": "6.99",
+      "stock": "90",
+      "category": "Maquillaje de Ojos"
+    },
+    {
+      "id": "72d6",
+      "name": "Crema Solar Antiedad SPF 50",
+      "description": "Protege la piel del sol y combate los signos del envejecimiento. ",
+      "price": "22.99",
+      "stock": "55",
+      "category": "Cuidado Solar"
+    },
+    {
+      "id": "649a",
+      "name": "Bálsamo Labial Protector SPF 15",
+      "description": "Hidrata y protege los labios del sol y el viento. ",
+      "price": "4.99",
+      "stock": "150",
+      "category": "Cuidado Labial"
+    },
+    {
+      "id": "784c",
+      "name": "Sombra de Ojos en Crema \"Noche Estrellada\"",
+      "description": "Tonos intensos y de larga duración.",
+      "price": "8.49",
+      "stock": "75",
+      "category": "Maquillaje de Ojos"
+    },
+    {
+      "id": "f7f5",
+      "name": "Crema Corporal Reafirmante Colágeno",
+      "description": "Mejora la elasticidad de la piel y la deja tersa y firme. ",
+      "price": "20.99",
+      "stock": "65",
+      "category": "Cuidado Corporal"
     }
   ],
   "roles": [
@@ -102,5 +158,18 @@
       "role": "Admin"
     }
   ],
-  "orders": []
+  "orders": [
+    {
+      "id": "d635",
+      "productId": null,
+      "productName": "asd",
+      "productPrice": "123"
+    },
+    {
+      "id": "66ab",
+      "productId": null,
+      "productName": "asd",
+      "productPrice": "123"
+    }
+  ]
 }

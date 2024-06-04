@@ -29,6 +29,9 @@
     text-align: center;
     padding: 20px;
     min-width: 200px;
+    text-wrap: wrap;
+    max-width: 300px;
+    min-height: 400px;
 }
 
 .btn{
