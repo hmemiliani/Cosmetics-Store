@@ -1,0 +1,47 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: #5f6163;
+    background-attachment: fixed;
+    background-position: center;
+    color: white;
+}
+
+.form{
+    height: 50vh;
+    width: 20vw;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    transition: 0.5s;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px solid white;
+    backdrop-filter: blur(10px);
+    flex-direction: column;
+    gap: 20px;
+}
+
+.form > input{
+    height: 40px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    border: none;
+    padding: 3px;
+    width: 70%;
+}
+
+.container > .form > button {
+    height: 40px;
+    width: 70%;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    border: none;
+    font-size: 18px;
+
+}
+

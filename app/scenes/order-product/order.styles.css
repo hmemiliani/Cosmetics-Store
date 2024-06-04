@@ -1,0 +1,33 @@
+.orderContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 50px;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+    width: 100vw;
+}
+
+.orderDetails{
+    font-size: 25px;
+}
+
+.btn{
+    height: 70px;
+    width: 30%;
+    border: none;
+    font-size: 20px;
+    box-shadow: rgba(0, 0, 0, 0.07) 0px -13px 15px 0px inset, rgba(0, 0, 0, 0.15) 0px -26px 20px 0px inset, rgba(0, 0, 0, 0.1) 0px -49px 20px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.btn:hover{
+    cursor: pointer;
+    opacity: 0.8;
+}

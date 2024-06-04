@@ -1,0 +1,106 @@
+{
+  "products": [
+    {
+      "name": "hola",
+      "description": "una descripcion",
+      "price": "1999",
+      "stock": "12",
+      "category": "hogar",
+      "id": "0380"
+    },
+    {
+      "name": "prosucto 1",
+      "description": "una descripcion",
+      "price": "1234",
+      "stock": "12",
+      "category": "hogar",
+      "id": "0a3b"
+    },
+    {
+      "name": "123",
+      "description": "esta es una descripcion",
+      "price": "31231",
+      "stock": "123",
+      "category": "31231",
+      "id": "36d6"
+    },
+    {
+      "id": "43f0",
+      "name": "asd",
+      "description": "asd",
+      "price": "123",
+      "stock": "123",
+      "category": "algo"
+    },
+    {
+      "id": "df1e",
+      "name": "Labial",
+      "description": "esta madre es para los labios",
+      "price": "20000",
+      "stock": "54",
+      "category": "makeup"
+    }
+  ],
+  "roles": [
+    {
+      "id": "1",
+      "role": "Admin"
+    },
+    {
+      "id": "2",
+      "role": "User"
+    }
+  ],
+  "users": [
+    {
+      "id": "798a",
+      "name": "Usuario",
+      "email": "usuario@user.com",
+      "password": "U2FsdGVkX18jH2pVuu/Qpvf5bBdmglUXCP1fMp0n+A0=",
+      "role": "User"
+    },
+    {
+      "id": "2e56",
+      "name": "Harold",
+      "email": "harold_medranoe@hotmail.com",
+      "password": "U2FsdGVkX182IemDxrgNRGH/hQSCVSCGuOFT4RVpgQE=",
+      "role": "Admin"
+    },
+    {
+      "id": "cdd3",
+      "name": "Admin",
+      "email": "admin@admin.com",
+      "password": "U2FsdGVkX1/zOJqtE4sqNg7aJNYMWqpFFNOR+rTqvX0=",
+      "role": "Admin"
+    },
+    {
+      "id": "6402",
+      "name": "NormalUser",
+      "email": "normaluser@email.com",
+      "password": "U2FsdGVkX1/9XEuRaYCaqN6kmJv5mwVNbik19RdFiu0=",
+      "role": "User"
+    },
+    {
+      "id": "48bc",
+      "name": "adminUser",
+      "email": "adminuser@email.com",
+      "password": "U2FsdGVkX18MYruEFsVWBHYOlN/nrPwT6CFGJ5vkr+o=",
+      "role": "Admin"
+    },
+    {
+      "id": "c8c2",
+      "name": "usuarioNormal",
+      "email": "usuarionormal@email.com",
+      "password": "U2FsdGVkX18m1Tpe5l5es9IbQI1HYZvY7EiGyrTEblY=",
+      "role": "User"
+    },
+    {
+      "id": "d9b4",
+      "name": "usuarioAdmin",
+      "email": "usuarioadmin@email.com",
+      "password": "U2FsdGVkX1+Bt9Suf9SFJQ6Wdt12U+ULt5rGrURTVJ0=",
+      "role": "Admin"
+    }
+  ],
+  "orders": []
+}
